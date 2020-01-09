@@ -1,7 +1,7 @@
 # Jonathan Holzman
 | [jon.holz@gmail.com](mailto:jon.holz@gmail.com) | [202-487-7115](tel:12024877115) |
 |-|-|
-| 2517 Fleet Street Baltimore, Maryland | https://github.com/jonholz | 
+| 909 47th Ave N Nashville, Tennessee | https://github.com/jonholz | 
 
 ## Objective
 I am looking for an opportunity to use my software skills, hardware knowledge and 17 years of experience to contribute to challenging projects in an innovative and supportive environment. 
@@ -24,13 +24,15 @@ I am looking for an opportunity to use my software skills, hardware knowledge an
 ## Experience
 ### Northrop Grumman | Baltimore, Maryland
 #### Systems Integration and Test *2010 – Present*
-* Military Satellite Communications Program - *Systems Integration & Test Technical Lead*,  2017-Present
-  * Leading a team of engineers in the development of plans, procedures and performance verification tests 
-  * Consulting with managers of schedule and cost & perform metrics
+* Distributed Multifunction System  - *Systems Integration & Test Technical Lead*,  2017-Present
+  * Leading a team of engineers in the development of tools and performance verification tests
 * Integration & Test Toolbox – *Technical Lead*, 2012-Present
   * Lead Developer of a MATLAB based suite of hardware and software test tools
   * Provide technical support to programs that are currently in integration and using the Toolbox.
   * Point of contact for all bug fixes and enhancement requests
+* Military Satellite Communications Program - *Systems Integration & Test Technical Lead*,  2017
+  * Leading a team of engineers in the development of plans, procedures and performance verification tests 
+  * Consulting with managers of schedule and cost & perform metrics
 * Air to Ground Surveillance Radar - *Integration Team Lead*, 2015-2017 
   * Led a team of engineers in the successful integration, verification and flight test of a new radar system architecture
   * Performed tuning and antenna pattern verification of an Active Electronically Scanned Antenna in a near field antenna range
@@ -63,7 +65,7 @@ Supported system software verification
 * Course Instructor, Introduction to the Integration and Test Toolbox, a required course for all engineers in the department
 * Mentor to multiple junior engineers
 * Systems Integration and Test representative to the Innovation Club
-* Co-Founder of the integration and test “Not-Yet-Senior” Technical Staff knowledge transfer group
+* Co-Founder of the integration and test “Not-So-Senior” Technical Staff knowledge transfer group
 
 ## Publications 
 * Disclosure: Enhanced AESA Antenna Tuning for Digital Radars
@@ -72,3 +74,7 @@ Supported system software verification
 * 2013 Systems Engineering Advisory Group: The Integration & Test Toolbox
 * 2012 Engineering Tools Conference: Extending a MATLAB Toolbox with Java
 * 2011 ES Symposium: Safety Blanking in Integration Software
+
+## Awards
+* Quality is Personal
+* President’s Leadership Award Division Level
